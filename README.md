@@ -10,13 +10,9 @@ A modern, responsive travel booking platform that allows users to search and boo
 
 ## 🌟 Live Demo
 
-**[View Live Demo](https://travelbuddy.netlify.app)** *(Replace with your Netlify URL after deployment)*
+**[View Live Demo](https://agent-69e14b17944f9684b1--clever-puffpuff-68e706.netlify.app/)**
 
-## 📸 Screenshots
 
-| Homepage | Flight Search | Hotel Booking |
-|----------|---------------|---------------|
-| *Add screenshot here* | *Add screenshot here* | *Add screenshot here* |
 
 ## ✨ Features
 
